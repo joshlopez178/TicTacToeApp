@@ -1,4 +1,7 @@
-﻿using System;
+﻿//This application was created by: Josh Lopez on 07/27/2020
+//For educational use only
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
